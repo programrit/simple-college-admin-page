@@ -2,8 +2,8 @@ import mysql.connector
 mydb=mysql.connector.connect(
     host="localhost",
     port=3306,
-    user="root",
-    password="12345",
+    user="ENTER USER",
+    password="ENTER PASSWORD",
     database="Admin"
 )
 mycursor=mydb.cursor()
