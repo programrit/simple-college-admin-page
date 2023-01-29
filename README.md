@@ -1,1 +1,0 @@
-# simple-college-admin-page
